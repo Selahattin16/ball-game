@@ -1,2 +1,2 @@
 # ball-game
-kare bir düzlemde, ortada bir top ve etrafında 8 adet dönen obje olan klasik küçük bir top oyunu
+A classic little ball game on a square plane, with a ball in the middle and 8 rotating objects around it.
